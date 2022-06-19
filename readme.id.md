@@ -21,14 +21,14 @@ Disebut View Tube (<code>/ˈvjuːˌtjuːb/</code>)
   <a href="https://twitter.com/VueTubeApp" alt="Twitter"><img src="https://img.shields.io/twitter/follow/VueTubeApp?label=Follow&style=flat&logo=twitter"></img></a>
 </p>
 
-Baca ini di bahasa lain: [English,](readme.md) [Español,](readme.es.md) [简体中文,](readme.zh-hans.md) [繁體中文,](readme.zh-hant.md) [日本語,](readme.ja.md) [עִברִית,](readme.he.md) [Nederlands,](readme.nl.md) [தமிழ்,](readme.ta.md) [Bahasa Melayu,](readme.ms.md) [Македонски,](readme.mk.md) [Français,](readme.fr.md) [Português Brasileiro](readme.pt-br.md)
+Baca ini di bahasa lain: [English,](readme.md) [Español,](readme.es.md) [简体中文,](readme.zh-hans.md) [繁體中文,](readme.zh-hant.md) [日本語,](readme.ja.md) [עִברִית,](readme.he.md) [Nederlands,](readme.nl.md) [தமிழ்,](readme.ta.md) [Bahasa Melayu,](readme.ms.md) [Македонски,](readme.mk.md) [Français,](readme.fr.md) [Português Brasileiro,](readme.pt-br.md) [Bahasa Indonesia,](readme.id.md) [Polski,](readme.pl.md) [Български,](readme.bg.md) [Italiano](readme.it.md)
 
 ## Fitur
 
-<img src="./resources/readme-id/Features.id.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-id/Features.id.svg" alt="VueTube icon" height="100"/>
 
 - 🎨 Tema: Terang, Gelap, OLED, Semua warna yang ada di dunia
-- 🖌️ UI yang bisa di sesuaikan: Kamu bisa menyesuaikan warna aksen, dan bagian UI lainnya untuk menonaktifkan fitur yang tidak anda gunakan!
+- 🖌️ UI yang bisa di sesuaikan: Kamu bisa menyesuaikan warna aksen, dan bagian UI lainnya untuk menonaktifkan fitur yang tidak kamu gunakan!
 - ⬆️ Pembaharuan Otomatis: Kamu akan diberitahu saat pembaharuan baru tersedia & kembali ke versi lama jika kamu tidak menyukainya!
 - 👁️ Perlindungan dari Pelacakan: Tidak ada telemetri (informasi pribadi) yang dikirim dari perangkatmu secara bawaan
 - 📺 Pemutar video custom
@@ -36,7 +36,7 @@ Baca ini di bahasa lain: [English,](readme.md) [Español,](readme.es.md) [简体
 
 ## Instalasi
 
-<img src="./resources/readme-id/Install.id.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-id/Install.id.svg" alt="VueTube icon" height="100"/>
 
 Untuk menginstal aplikasi silahkan kunjungi www.vuetube.app/install
 
@@ -59,7 +59,7 @@ Untuk menginstal aplikasi silahkan kunjungi www.vuetube.app/install
 
 ## Rencana
 
-<img src="./resources/readme-id/Plans.id.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-id/Plans.id.svg" alt="VueTube icon" height="100"/>
 
 - 🔍 Pencarian Lanjutan
 - 🗞️ Simpan riwayat tontonan secara lokal (di perangkatmu)
@@ -94,6 +94,8 @@ Ide ini telah dilempar di server discord Return Youtube Dislike untuk beberapa w
 
 Silakan baca website kami untuk cara melakukannya: www.vuetube.app/contributing
 
+Jika kamu ingin menerjemahkan aplikasi ini, [klik disini](/NUXT/plugins/languages) dan baca bagaimana cara melakukannya
+
 ## Kontributor
 
 <a href="https://github.com/VueTubeApp/VueTube/graphs/contributors">
@@ -106,7 +108,7 @@ Silakan baca website kami untuk cara melakukannya: www.vuetube.app/contributing
 
 - Emoji oleh [tim Twemoji](https://twemoji.twitter.com/), Dilisensikan dibawah [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Logo VueTube oleh [@afnzmn](https://github.com/afnzmn)
-
+- Data dislike YouTube publik disediakan oleh [Return Youtube Dislike](https://returnyoutubedislike.com)
 ## Peringatan
 
 Proyek VueTube dan isinya tidak beraffiliasi dengan, didanai, diberi izin, didukung oleh, atau dengan cara apapun terkait dengan YouTube, Google LLC atau segala afiliasi dan anak perusahaannya. Website YouTube resmi bisa ditemukan di [www.youtube.com](https://www.youtube.com).

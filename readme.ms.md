@@ -16,27 +16,27 @@ Disebut View Tube (<code>/ˈvjuːˌtjuːb/</code>)
   <a href="https://github.com/VueTubeApp/VueTube/blob/main/LICENSE" alt="License"><img src="https://img.shields.io/github/license/VueTubeApp/VueTube"></img></a>
   <a href="https://github.com/VueTubeApp/VueTube/actions/workflows/ci.yml" alt="CI"><img src="https://github.com/VueTubeApp/VueTube/actions/workflows/ci.yml/badge.svg"></img></a>
   <a href="https://reddit.com/r/vuetube" alt="Reddit"><img src="https://img.shields.io/reddit/subreddit-subscribers/vuetube?label=r%2FVuetube&logo=reddit&logoColor=white"></img></a>
-  <a href="https://t.me/VueTube" alt="Telegram"><img src="https://img.shields.io/endpoint?color=neon&style=flat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fvuetube"></img></a>
+  <a href="https://t.me/VueTube" alt="Telegram"><img src="https://img.shields.io/endpoint?label=VueTube&url=https%3A%2F%2Ftelegram-badge-4mbpu8e0fit4.runkit.sh%2F%3Furl%3Dhttps%3A%2F%2Ft.me%2FVuetube"></img></a>
   <a href="https://discord.gg/7P8KJrdd5W" alt="Discord"><img src="https://img.shields.io/discord/946587366242533377?label=Discord&style=flat&logo=discord&logoColor=white"></img></a>
   <a href="https://twitter.com/VueTubeApp" alt="Twitter"><img src="https://img.shields.io/twitter/follow/VueTubeApp?label=Follow&style=flat&logo=twitter"></img></a>
 </p>
 
-Baca ini dalam bahasa lain: [English,](readme.md) [Español,](readme.es.md) [简体中文,](readme.zh-hans.md) [繁體中文,](readme.zh-hant.md) [日本語,](readme.ja.md) [עִברִית,](readme.he.md) [Nederlands,](readme.nl.md) [தமிழ்](readme.ta.md) [Македонски,](readme.mk.md) [Français,](readme.fr.md) [Português Brasileiro,](readme.pt-br.md) [Bahasa Indonesia](readme.id.md)
+Baca ini dalam bahasa lain: [English,](readme.md) [Español,](readme.es.md) [简体中文,](readme.zh-hans.md) [繁體中文,](readme.zh-hant.md) [日本語,](readme.ja.md) [עִברִית,](readme.he.md) [Nederlands,](readme.nl.md) [தமிழ்,](readme.ta.md) [Bahasa Melayu,](readme.ms.md) [Македонски,](readme.mk.md) [Français,](readme.fr.md) [Português Brasileiro,](readme.pt-br.md) [Bahasa Indonesia,](readme.id.md) [Polski,](readme.pl.md) [Български,](readme.bg.md) [Italiano](readme.it.md)
 
 ## Ciri-ciri
 
-<img src="./resources/readme-ms/Features.ms.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-ms/Features.ms.svg" alt="VueTube icon" height="100"/>
 
 - 🎨 Tema: Cerah, Gelap, OLED, Semua warna pelangi
 - 🖌️ UI yang dibolehkan suaikan: Anda boleh menyesuaikan sepenuhnya warna aksen dan bahagian lain UI untuk mengalih keluar ciri yang anda tidak gunakan!
-- ⬆️ Kemaskini Auto: Anda akan dimaklumkan apabila kemas kini tersedia & turun taraf jika anda tidak menyukainya!
+- ⬆️ Kemaskini Auto: Anda akan dimaklumkan apabila kemas kini tersedia & kembali ke versi lama jika anda tidak menyukainya!
 - 👁️ Perlindungan Penjejak: Tiada telemetri (maklumat peribadi) dihantar daripada peranti anda secara lalai
-- 📺 Pemain video kustom
-- 👎 Return YouTube Dislike
+- 📺 Pemain video yang boleh disesuaikan 
+- 👎 Return YouTube Dislike: Anda boleh melihat kiraan tidak suka pada hampir semua video
 
 ## Pasang
 
-<img src="./resources/readme-ms/Install.ms.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-ms/Install.ms.svg" alt="VueTube icon" height="100"/>
 
 Untuk memasang aplikasi VueTube, sila lawati www.vuetube.app/install
 
@@ -59,11 +59,11 @@ Untuk memasang aplikasi VueTube, sila lawati www.vuetube.app/install
 
 ## Pelan
 
-<img src="./resources/readme-ms/Plans.ms.svg" alt="VueTube icon" width="300"/>
+<img src="./resources/readme-ms/Plans.ms.svg" alt="VueTube icon" height="100"/>
 
 - 🔍 Carian lanjutan
 - 🗞️ Simpan sejarah tontonan secara setempat (pada peranti anda)
-- ✂️ Shorts
+- ✂️ YouTube Shorts (video pendek)
 - 🧑 Log masuk dengan akaun Google
 - 🖼️ Mod gambar dalam gambar
 - dan lebih lagi!
@@ -106,6 +106,7 @@ Sila baca di laman sesawang kami tentang bagaimana untuk melakukannya: www.vuetu
 
 - Emoji oleh kumpulan [Twemoji](https://twemoji.twitter.com/), Dilesenkan di bawah [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Logo VueTube oleh [@afnzmn](https://github.com/afnzmn)
+- Data kiraan tidak suka YouTube awam disediakan oleh [Return YouTube Dislike](https://returnyoutubedislike.com)
 
 ## Penafian
 
