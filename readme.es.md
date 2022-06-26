@@ -3,7 +3,8 @@
     <img src="https://cdn.discordapp.com/attachments/751596360108605500/980418672331988992/VueTube_Dark.svg" alt="VueTube icon" width="500"/>
   </a>
   </br>
-  <sub>Logo por <a href="https://github.com/afnzmn">@afnzmn</a>, traducción por <a href="https://github.com/gayolgate">@gayolgate</a></sub>
+  <sub>Logo por <a href="https://github.com/afnzmn">@afnzmn</a>, traducción por <a href="https://github.com/gayolgate">@gayolgate</a></sub></br>
+  <sub>Contribuidores del Readme en Inglés: <a href="https://github.com/404-Program-not-found">@404-Program-not-found</a>, <a href="https://github.com/Frontesque">@Frontesque</a>, <a href="https://github.com/gayolGate">@gayolGate</a>, <a href="https://github.com/ThatOneCalculator">@ThatOneCalculator</a>, <a href="https://github.com/afnzmn">@afnzmn</a>, <a href="https://github.com/tired6488">@tired6488</a>, <a href="https://github.com/DARKDRAGON532">@DARKDRAGON532</a>, <a href="https://github.com/PickleNik">@PickleNik</a> y <a href="https://github.com/Zyborg777">@Zyborg777</a></sub>
   </br>
   </br>
 <strong>Un cliente sencillo de streaming de vídeo FOSS diseñado para recrear TODAS las características de sus respectivas aplicaciones (y más) </strong>
@@ -31,8 +32,8 @@ Leer en otros idiomas: [English,](readme.md) [Español,](readme.es.md) [简体�
 - ⬆️ Actualizaciones automáticas: ¡Recibe una notificación cuando haya una actualización disponible y baja de versión si no te gusta!
 - 👁️ Protección contra el rastreo: No se envían datos desde tu dispositivo por defecto
 - 📺 Reproductor de vídeo personalizado
-- 👎 Return YouTube Dislike - [*Más información*](https://returnyoutubedislike.com)
-- 💰 SponsorBlock - [*Más información*](https://sponsor.ajay.app)
+- 👎 Return YouTube Dislike - [_Más información_](https://returnyoutubedislike.com)
+- 💰 SponsorBlock - [_Más información_](https://sponsor.ajay.app)
 
 ## Instalar
 
@@ -102,6 +103,15 @@ Si quieres traducir la app, [haz clic aquí](/NUXT/plugins/languages) y lee cóm
 - Emojis por el [equipo de Twemoji](https://twemoji.twitter.com/), Con licencia [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Logo de VueTube por [@afnzmn](https://github.com/afnzmn)
 - Estadísticas públicas de dislikes proporcionadas por [Return YouTube Dislike](https://returnyoutubedislike.com)
+- Ajay y su comunidad por proporcionarnos la [API de Sponsorblock](https://sponsor.ajay.app), Licenciada bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Donar
+
+VueTube es y siempre será gratuito y de código abierto, pero puedes apoyar a nuestros desarrolladores con una donación que servirá para mantener el proyecto.
+
+[Donar en Ko-Fi.com](https://ko-fi.com/vuetube) (Oficial)
+
+[Donar a PickleNik en GitHub](https://github.com/sponsors/PickleNik) (Mantenedor)
 
 ## Aviso legal
 

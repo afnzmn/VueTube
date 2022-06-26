@@ -4,13 +4,16 @@ module.exports = {
   global: {
     home: "Laman Utama",
     subscriptions: "Langganan",
-    library: "Pustaka"
+    library: "Pustaka",
+    restart: "Mulakan semula",
+    later: "Kemudian",
+    settingRestart: "Penukaran tetapan ini memerlukan apl mulakan semula untuk menggunakan tetapan."
   },
 
   index: {
     connecting: "Menyambung",
     plugins: "Memuatkan Pemalam",
-    launching: "Memulakan"
+    launching: "Memulakan",
   },
 
   settings: {
@@ -23,12 +26,12 @@ module.exports = {
     updates: "Kemaskini",
     logs: "Log",
     about: "Tentang",
-    devmode: "Pilihan Pembangun"
+    devmode: "Pilihan Pembangun",
   },
 
   mods: {
     general: {
-      language: "Bahasa"
+      language: "Bahasa",
     },
     theme: {
       normal: "Normal",
@@ -37,7 +40,7 @@ module.exports = {
       dark: "Gelap",
       black: "Hitam",
       darkmode: "Mod Gelap",
-      darkmodetagline: "Selamat datang ke sisi gelap, Jedi muda."
+      darkmodetagline: "Selamat datang ke sisi gelap, Jedi muda.",
     },
     tweaks: {
       fullscreen: "Skrin Penuh",
@@ -45,19 +48,19 @@ module.exports = {
       roundedcorners: "Sudut Bulat",
       roundthumbnails: "Lakaran Kecil Bulat",
       roundwatchpagecomponents: "Komponen Halaman Tonton Bulat",
-      radius: "Radius"
+      radius: "Radius",
     },
     startup: {
-      defaultpage: "Halaman Lalai"
+      defaultpage: "Halaman Lalai",
     },
     updates: {
       install: "Pasang",
       view: "Lihat",
       latest: "Terkini",
-      installed: "Dipasang"
+      installed: "Dipasang",
     },
     logs: {
-      more: "Lagi"
+      more: "Lagi",
     },
     about: {
       appinformation: "Maklumat Apl",
@@ -69,8 +72,8 @@ module.exports = {
       manufacturer: "Pengilang",
       emulator: "Emulator",
       github: "GitHub",
-      discord: "Discord"
-    }
+      discord: "Discord",
+    },
   },
 
   events: {
@@ -84,8 +87,6 @@ module.exports = {
     enableryd: "Hidupkan Return YouTube Dislike",
     enablespb: "Hidupkan SponsorBlock",
     thanks: "Terima Kasih kerana Menggunakan VueTube",
-    enjoy: "Kami harap anda mempunyai yang menakjubkan"
-  }
-
-
-}
+    enjoy: "Kami harap anda mempunyai yang menakjubkan",
+  },
+};

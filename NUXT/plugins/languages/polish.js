@@ -5,6 +5,9 @@ module.exports = {
     home: "Główna",
     subscriptions: "Subskrypcje",
     library: "Biblioteka",
+    restart: "Uruchom Ponownie",
+    later: "Nie Teraz",
+    settingRestart: " Zmiana tego ustawienia wymaga ponownego uruchomienia aplikacji w celu zastosowania zmian."
   },
 
   index: {
@@ -27,7 +30,7 @@ module.exports = {
 
   mods: {
     general: {
-      language: "Język"
+      language: "Język",
     },
     theme: {
       normal: "Normalny",
@@ -36,29 +39,29 @@ module.exports = {
       dark: "Ciemny",
       black: "Czarny",
       darkmode: "Tryb Ciemny",
-      darkmodetagline: "Brawo ty, przejdź na ciemną stronę mocy."
+      darkmodetagline: "Brawo ty, przejdź na ciemną stronę mocy.",
     },
     tweaks: {
       fullscreen: "Pełny Ekran",
       navbarblur: "Rozmycie Paska Nawigacyjnego",
-      roundedcorners: "Zaokrąglone Krawędzie",
+      roundedcorners: "Zaokrąglenie Krawędzi",
       roundthumbnails: "Zaokrąglone Miniaturki",
       roundwatchpagecomponents: "Zaokrąglone Elementy Interfejsu",
-      radius: "Promień"
+      radius: "Promień",
     },
     startup: {
       defaultpage: "Strona Domyślna",
     },
     updates: {
-      install: "Zainstaluj",
+      install: "Instaluj",
       view: "Zobacz",
       latest: "Najnowsza",
-      installed: "Zainstalowana"
+      installed: "Zainstalowana",
     },
     logs: {
-      more: "Więcej"
+      more: "Więcej",
     },
-    
+
     about: {
       appinformation: "Informacje o Aplikacji",
       appversion: "Wersja Aplikacji",
@@ -76,7 +79,7 @@ module.exports = {
   events: {
     welcome: "Witaj w VueTube",
     tagline: "Przyszłość Streamingu Wideo",
-    next: "Następny",
+    next: "Dalej",
     updated: "VueTube Został Zaktualizowany!",
     awesome: "Świetnie!",
   },

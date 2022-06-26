@@ -8,7 +8,7 @@
         ref="player"
         :video="video"
         :sources="sources"
-        :thumbnails="thumbnails"
+        :recommends="recommends"
       />
     </div>
 
@@ -28,7 +28,11 @@
           <div class="d-flex flex-column">
             <v-card-title
               class="pa-0"
-              style="font-size: 0.95rem; line-height: 1.15rem; overflow-wrap: break-word;"
+              style="
+                font-size: 0.95rem;
+                line-height: 1.15rem;
+                overflow-wrap: break-word;
+              "
               v-text="video.title"
               v-emoji
             />
@@ -326,13 +330,10 @@ export default {
       this.loaded = false;
 
       this.$youtube.getVid(this.$route.query.v).then((result) => {
-        // TODO: add other resolutions as well
-        this.sources = result.availableResolutions;
+        // TODO: sourt "tiny" (no qualityLabel) as audio and rest as video
+        this.sources = result.availableResolutionsAdaptive;
         console.log("Video info data", result);
         this.video = result;
-
-        //---   Set Thumbnails   ---//
-        this.thumbnails = result.metadata.contents[2].slimOwnerRenderer.thumbnail.thumbnails;
 
         //---   Content Stuff   ---//
         this.likes = result.metadata.likes.toLocaleString();
